@@ -1,17 +1,11 @@
+# Cognifyz Technologies
 
-# Internship at Cognifyz Technologies
+This repository is part of my internship at Cognifyz Technologies, where I am contributing to the development and enhancement of web applications.
 
-#About Cognifyz Technologies
+During this internship, I am gaining hands-on experience in:
 
-Cognifyz Technologies is a tech-driven company committed to delivering innovative solutions that transform businesses. Specializing in web development, mobile applications, cloud computing, AI, and data analytics, the company is dedicated to building scalable and efficient digital solutions tailored to client needs.
-
-With a focus on creativity, agility, and excellence, Cognifyz fosters an environment that encourages learning, innovation, and collaboration among its team members.
-
-#About My Internship
-
-I am currently working as a Web Development Intern at Cognifyz Technologies, where I am gaining hands-on experience in:
-
-<i> Developing responsive and user-friendly web applications.
-<ii> Enhancing my skills in HTML, CSS, JavaScript, and modern frameworks.
-<iii> Collaborating with a dynamic team to design and implement innovative web solutions.
-<iv> Understanding the development lifecycle, from ideation to deployment.
+Designing and implementing responsive and user-friendly web interfaces.
+Developing and optimizing scalable software solutions.
+Exploring modern web technologies to create innovative features.
+Collaborating with a team of skilled developers to deliver impactful projects.
+This opportunity is helping me deepen my technical expertise while understanding the complete software development lifecycle and best practices in the tech industry.
