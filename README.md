@@ -1,4 +1,4 @@
-# Cognifyz Technologies
+# Internship at Cognifyz Technologies
 
 This repository is part of my internship at Cognifyz Technologies, where I am contributing to the development and enhancement of web applications.
 
